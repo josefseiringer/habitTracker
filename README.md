@@ -17,3 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 Attention you need an .env File
 look the .envExample File for the Vars you need!!!
+
+I use NOTION API as an online database
+Link to Notion: https://www.notion.so/de-de
+Link to Notion Developers API: https://developers.notion.com/
+
+
